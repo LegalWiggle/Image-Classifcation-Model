@@ -1,4 +1,4 @@
-# Deep Learning Project
+# Food Image Classification Model
 
 This project was an introduction for me to multi-layer neural networks. Here, I learned about Convolutional Neural Networks, its model architecture, hyperparamter tuning and regularization techniques. 
 
